@@ -17,6 +17,10 @@
 	    entity Comment extends HasAuthor { 
 	        content: String
 	    }
+	    
+	    entity Picture extends HasAuthor { 
+	        content: String
+	    }
 
   }
     
